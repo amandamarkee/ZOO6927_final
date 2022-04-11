@@ -15,3 +15,11 @@ For the ZOO6927 AI in Biology course, I chose to create a machine learning model
 > Results: How did the model do
 > 
 > Discussion: Summarize what worked, what didn't etc.
+
+
+## Linear Regression Model
+For my first question, I want to know whether or not I can train a model that will predict a Pokemon "species" name, given battle and biological information. In this dataset, my response variable will be the Pokemon species name, or the column "Name". My predictor variables will be all columns in the lm_dataset, with the "Name" column dropped.
+
+
+## Decision Tree Classifier Model
+For my second question, I want to know whether or not I can train a model that will classify a Pokemon in one of 18 types. In this dataset, my response variable will be the Pokemon's main type, or the column "Type.1". My predictor variables will be all columns in the dt_dataset, with the "Type.1" column dropped.
