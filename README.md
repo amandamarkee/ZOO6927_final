@@ -1,5 +1,5 @@
-# ZOO6927_final
-ZOO6927 AI in Biology course, final project materials for creating a machine learning model that identifies Pokemon based on biological and battle statistics, and a decision tree model for classifying Pokemon into one of 18 types
+# ZOO6927_final Biology in Pop-Culture: Using Machine Learning to Identify Fictional Species from Pokemon
+For the ZOO6927 AI in Biology course, I chose to create a machine learning model that identifies Pokemon based on biological and battle statistics, and a decision tree model for classifying Pokemon into one of 18 types. I use data from Alberto Barradas's Pokemon.csv "Pokemon with stats" dataset. This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. Found here ( https://www.kaggle.com/datasets/abcsds/pokemon )
 
 ## Project Overview and Criteria
 > Select some data that can be analyzed with AI and work to make a notebook that walks through the process of analyzing the data.
